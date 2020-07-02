@@ -5,7 +5,8 @@ export default class Login extends Component {
         super();
         this.state = {
             username: "",
-            password: ""
+            password: "",
+            confirm:""
         }
     }
     render() {
