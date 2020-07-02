@@ -1,0 +1,22 @@
+.send{
+    width: 350px;
+    height: 300px;
+    border: 1px solid rgb(67, 80, 218);
+    position: relative;
+}
+
+.bottom{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    display: flex;
+}
+
+.inp{
+    width: 280px;
+    height: 20px;
+}
+
+.sendBtn{
+    width:60px;
+}
